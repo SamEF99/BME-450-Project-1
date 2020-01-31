@@ -12,7 +12,20 @@ Code Link:
 
 # Results:
 
-  
+![](BME450_Project_1_Fig_1.PNG)
+![](BME450_Project_1_Fig_2.PNG)
+![](BME450_Project_1_Fig_3.PNG)
+![](BME450_Project_1_Fig_4.PNG)
+![](BME450_Project_1_Fig_5.PNG)
+![](BME450_Project_1_Fig_6.PNG)
+![](BME450_Project_1_Fig_7.PNG)
+![](BME450_Project_1_Fig_8.PNG)
+![](BME450_Project_1_Fig_9.PNG)
+![](BME450_Project_1_Fig_10.PNG)
+![](BME450_Project_1_Fig_11.PNG)
+![](BME450_Project_1_Fig_12.PNG)
+![](BME450_Project_1_Fig_13.PNG)
+![](BME450_Project_1_Fig_14.PNG)
 
 # Questions:
 
@@ -25,6 +38,8 @@ b). Where is the maximum value of ssp in each season? Explain why the max ssp sh
   In the shallow profilers, we see that the maximum ssp is present at the surface in both winter and summer, due to the greater heat at the surface. However, during summer the maximum value is higher, likely due to the higher temperatures in this season. For the deep profilers, we see that the maximum ssp is deep down, and is even higher than the surface ssp. This is due to the increasing pressure that makes up for the colder temperatures.
 
 c). Compare the ssp profile in day and night of all profilers, explain what you find(effect of day vs night).
+
+![](BME450_Project_1_Fig_15.PNG)
 
   As we can see in the example plot provided, the ssp for different times of day has two peaks and two valleys. It tends to be higher around midday and midnight, and grow lower around morning and evening. This could be due to changing temperature, which will be at its hot and cold extremes during the ssp peaks, and at moderate levels during the ssp low points. This will alter the density properties of the seawater, changing the ssp. This trend tends to be consistent across profilers.
 
