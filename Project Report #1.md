@@ -12,15 +12,15 @@ Code Link: https://github.com/SamEF99/BME-450-Project-1/blob/master/BME%20450%20
 
 # Results:
 
-![](https://github.com/SamEF99/BME-450-Project-1/blob/master/BME450_Project_1_Fig_1.PNG)
+![](BME450_Project_1_Fig_1.PNG)
 
 Dives: 2
 
-![](https://github.com/SamEF99/BME-450-Project-1/blob/master/BME450_Project_1_Fig_2.PNG)
+![](BME450_Project_1_Fig_2.PNG)
 
 Dives: 1
 
-![](https://github.com/SamEF99/BME-450-Project-1/blob/master/BME450_Project_1_Fig_3.PNG)
+![](BME450_Project_1_Fig_3.PNG)
 
 Dives: 9
 
