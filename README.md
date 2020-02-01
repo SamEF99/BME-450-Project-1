@@ -1,6 +1,6 @@
 # BME-450-Project-1
 
-Code Link:
+Code Link: https://github.com/SamEF99/BME-450-Project-1/blob/master/BME%20450%20Project%20%231.ipynb
 
 # Problem Statement:
 
