@@ -13,32 +13,59 @@ Code Link:
 # Results:
 
 ![](BME450_Project_1_Fig_1.PNG)
+
 Dives: 2
+
 ![](BME450_Project_1_Fig_2.PNG)
+
 Dives: 1
+
 ![](BME450_Project_1_Fig_3.PNG)
+
 Dives: 9
+
 ![](BME450_Project_1_Fig_4.PNG)
+
 Dives: 9
+
 ![](BME450_Project_1_Fig_5.PNG)
+
 Dives: 2
+
 ![](BME450_Project_1_Fig_6.PNG)
+
 Dives: 12
+
 ![](BME450_Project_1_Fig_7.PNG)
+
 Dives: 9
+
 ![](BME450_Project_1_Fig_8.PNG)
+
 Dives: 1
+
 ![](BME450_Project_1_Fig_9.PNG)
+
 Dives: 2
+
 ![](BME450_Project_1_Fig_10.PNG)
+
 Dives: 2
+
 ![](BME450_Project_1_Fig_11.PNG)
+
 Dives: 9
+
 ![](BME450_Project_1_Fig_12.PNG)
+
 Dives: 9
+
 ![](BME450_Project_1_Fig_13.PNG)
+
 Dives: 2
+
 ![](BME450_Project_1_Fig_14.PNG)
+
 Dives: 2
 
 # Questions:
